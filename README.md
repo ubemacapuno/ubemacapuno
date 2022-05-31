@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Corey Damocles</h1>
 <h3 align="center">I am a self-taught web developer with a passion for learning tech!🤖</h3>
 
-<p align="left"> <a href="https://twitter.com/coreydamo" target="blank"><img src="https://img.shields.io/twitter/follow/coreydamo?logo=twitter&style=for-the-badge" alt="coreydamo" /></a> </p>
-
 - 🌱 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js**
 
 - ⚡ Fun fact **I enjoy photography, rock climbing, and hiking!**
@@ -22,3 +20,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubemacapuno&show_icons=true&locale=en" alt="ubemacapuno" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubemacapuno&" alt="ubemacapuno" /></p>
+
+<p align="left"> <a href="https://twitter.com/coreydamo" target="blank"><img src="https://img.shields.io/twitter/follow/coreydamo?logo=twitter&style=for-the-badge" alt="coreydamo" /></a> </p>
