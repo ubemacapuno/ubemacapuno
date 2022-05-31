@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Corey Damocles</h1>
-<h3 align="center">Self-taught web developer with a passion for learning tech!🤖</h3>
+<h3 align="center">I am a self-taught web developer with a passion for learning tech!🤖</h3>
 
 <p align="left"> <a href="https://twitter.com/coreydamo" target="blank"><img src="https://img.shields.io/twitter/follow/coreydamo?logo=twitter&style=for-the-badge" alt="coreydamo" /></a> </p>
 
