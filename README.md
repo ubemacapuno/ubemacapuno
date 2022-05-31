@@ -1,15 +1,15 @@
 <h1 align="center">Hello World, I'm Corey!</h1>
-<h3 align="center">I am a self-taught web developer with a passion for learning tech!🤖</h3>
+<h3 align="center">I am a self-taught web developer with a passion for learning tech!</h3>
 
 <p align="center">🧑🏾‍💻 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js, and more**</p>
 
-<p align="center">⚡ Fun facts **I enjoy photography, rock climbing, and hiking on my spare time!**</p>
+<p align="center">🤖 Fun facts **I enjoy photography, rock climbing, and hiking on my spare time!**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/corey-damocles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="corey-damocles" height="30" width="40" /></a>
-<a href="https://twitter.com/coreydamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coreydamo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/www.linkedin.com/in/corey-damocles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/corey-damocles" height="30" width="40" /></a>
+<a href="https://twitter.com/coreydamo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="coreydamo" height="30" width="40" /></a>
+<a href="https://codepen.io/corey-damocles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="corey-damocles" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
