@@ -1,7 +1,7 @@
 <h1 align="center">Hello World, I'm Corey!</h1>
 <h3 align="center">I am a self-taught web developer with a passion for learning tech!🤖</h3>
 
-<p align="center">🤖 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js**</p>
+<p align="center">🧑🏾‍💻 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js**</p>
 
 <p align="center">⚡ Fun facts **I enjoy photography, rock climbing, and hiking on my spare time!**</p>
 
