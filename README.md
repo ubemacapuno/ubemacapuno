@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js**
 
-- 👨‍💻 All of my projects are available at [https://coreydamocles.netlify.app/](https://coreydamocles.netlify.app/)
-
 - ⚡ Fun fact **I enjoy photography, rock climbing, and hiking!**
 
 <h3 align="left">Connect with me:</h3>
