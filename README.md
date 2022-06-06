@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Corey!</h1>
-<h3 align="center">I am a community-taught (and self-taught!) web developer with a passion for learning tech!</h3>
+<h3 align="center">I am a community-taught web developer with a passion for learning tech!</h3>
 
 <p align="center">🧑🏾‍💻 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js, and more**</p>
 
