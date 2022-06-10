@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Corey%20Damocles%20🤖&width=900&height=300)
+![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Corey%20Damocles%20&width=900&height=300)
 <h3 align="center">I am a community-taught web developer with a passion for learning tech!</h3>
 
 <p align="center">🧑🏾‍💻 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js, and more**</p>
