@@ -17,8 +17,8 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubemacapuno&show_icons=true&locale=en&layout=compact" alt="ubemacapuno" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubemacapuno&show_icons=true&locale=en" alt="ubemacapuno" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubemacapuno&show_icons=true&locale=en&theme=radical" alt="ubemacapuno" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubemacapuno&" alt="ubemacapuno" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubemacapuno&theme=radical" alt="ubemacapuno" /></p>
 
 <p align="center"> <a href="https://twitter.com/coreydamo" target="blank"><img src="https://img.shields.io/twitter/follow/coreydamo?logo=twitter&style=for-the-badge" alt="coreydamo" /></a> </p>
