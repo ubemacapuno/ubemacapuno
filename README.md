@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Corey%20Damocles%20👨‍💻&width=550&height=120)
+![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Corey%20Damocles%20👨‍💻&width=800&height=120)
 <!-- Banner from: (https://github.com/Akshay090/svg-banners) -->
 <h3 align="center">I am a community-taught web developer with a passion for learning tech!</h3>
 
