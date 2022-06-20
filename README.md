@@ -1,10 +1,10 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Corey%20Damocles%20👨🏾‍💻&width=800&height=100)
 <!-- Banner from: (https://github.com/Akshay090/svg-banners) -->
-<h3 align="center">I am a community-taught web developer with a passion for learning tech!</h3>
+<h3 align="left">I am a community-taught web developer with a passion for learning tech!</h3>
 
-<p align="center">🧑🏾‍💻 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js, and more**</p>
+<p align="left">🧑🏾‍💻 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js, and more**</p>
 
-<p align="center">🤖 Fun facts **I enjoy photography, rock climbing, and hiking on my spare time**</p>
+<p align="left">🤖 Fun facts **I enjoy photography, rock climbing, and hiking on my spare time**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
