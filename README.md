@@ -1,5 +1,5 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Corey%20Damocles%20👨🏾‍💻&width=800&height=100)
-<!-- Banner from: (https://github.com/Akshay090/svg-banners) -->
+![Header]([./your-header-image-name.png](https://github.com/ubemacapuno/ubemacapuno/blob/main/github-header-image.png?raw=true))
+
 <h3 align="center">I am a community-taught web developer with a passion for learning tech!</h3>
 
 <p align="center">🧑🏾‍💻 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js, and more**</p>
