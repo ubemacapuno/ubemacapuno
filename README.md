@@ -1,4 +1,4 @@
-![Header]([./your-header-image-name.png](https://github.com/ubemacapuno/ubemacapuno/blob/main/github-header-image.png?raw=true))
+![Header](https://github.com/ubemacapuno/ubemacapuno/blob/main/github-header-image.png?raw=true)
 
 <h3 align="center">I am a community-taught web developer with a passion for learning tech!</h3>
 
