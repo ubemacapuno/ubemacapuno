@@ -2,7 +2,7 @@
 
 <h3 align="left">I am a community-taught web developer with a passion for learning tech!</h3>
 
-<p align="left">🧑🏾‍💻 I’m currently learning **Svelte, MongoDB, Express.js, React, Node.js, and more**</p>
+<p align="left">🧑🏾‍💻 I’m currently working with **Svelte, MongoDB, Express.js, React, Node.js, and more**</p>
 
 <p align="left">🤖 Fun facts **I enjoy photography, rock climbing, and hiking on my spare time**</p>
 
