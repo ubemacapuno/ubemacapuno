@@ -2,9 +2,9 @@
 
 <h3 align="left">I am a community-taught web developer with a passion for learning tech!</h3>
 
-<p align="left">🧑🏾‍ Tools I currently include **Svelte/SvelteKit, React, MongoDB, Express.js, Node.js, HTML/CSS**</p>
+<p align="left">🧑🏾‍ Tools I currently use include Svelte/SvelteKit, React, MongoDB, Express.js, Node.js, HTML/CSS</p>
 <p align="left">🛠️ I am currently building an inventory management and maintenance scheduling application with the MERN stack.</p>
-<p align="left">🤖 Fun facts **I enjoy photography, rock climbing, and hiking on my spare time**</p>
+<p align="left">🤖 Fun facts: I enjoy photography, rock climbing, and hiking on my spare time</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
