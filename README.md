@@ -3,7 +3,7 @@
 <h3 align="left">I am a community-taught web developer with a passion for learning tech!</h3>
 
 <p align="left">🧑🏾‍ Tools I currently use include Svelte/SvelteKit, React, MongoDB, Express.js, Node.js, HTML/CSS</p>
-<p align="left">🛠️ I'm currently using MERN to develop a project for inventory management and maintenance schedule tracking.</p>
+<p align="left">🛠️ I'm currently using MERN to develop an application for inventory management and maintenance schedule tracking.</p>
 <p align="left">🤖 Fun facts: I enjoy photography, rock climbing, and hiking on my spare time.</p>
 
 <h3 align="left">Connect with me:</h3>
