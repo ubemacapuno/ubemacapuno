@@ -19,6 +19,4 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubemacapuno&show_icons=true&locale=en&layout=compact&theme=radical" alt="ubemacapuno" /></p>
 
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubemacapuno&show_icons=true&locale=en&theme=radical" alt="ubemacapuno" /></p>
-
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubemacapuno&theme=radical" alt="ubemacapuno" /></p>
