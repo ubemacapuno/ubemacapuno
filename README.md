@@ -18,3 +18,5 @@
 <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubemacapuno&show_icons=true&locale=en&layout=compact&theme=radical" alt="ubemacapuno" /></p>
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ubemacapuno&show_icons=true&locale=en&layout=compact&theme=radical" alt="ubemacapuno" /></p>
