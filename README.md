@@ -1,4 +1,4 @@
-![image](https://github.com/ubemacapuno/images-for-github-readme/blob/main/corey-damocles-header.png?raw=true)
+![image](https://github.com/ubemacapuno/images-for-github-readme/blob/main/corey-damocles-header-image.png?raw=true)
 
 <h3 align="left">I am a community-taught web developer with a passion for learning tech!</h3>
 
