@@ -1,4 +1,3 @@
-![Header](https://github.com/ubemacapuno/ubemacapuno/blob/main/github-header-image.png?raw=true)
 ![image](https://user-images.githubusercontent.com/97559559/190880172-4f3f4edc-4030-4084-aed8-8b6d4674293e.png)
 
 <h3 align="left">I am a community-taught web developer with a passion for learning tech!</h3>
