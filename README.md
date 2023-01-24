@@ -3,7 +3,7 @@
 <h3 align="left">I am a community-taught web developer with a passion for learning tech!</h3>
 
 <p align="left">🧑🏾‍ Tools I currently use include Svelte/SvelteKit, React, MongoDB, Express.js, Node.js, HTML/CSS</p>
-<p align="left">🛠️ I'm currently developing <a href="https://github.com/ubemacapuno/qc-buddy">QC Logger</a>, a full-stack web application for recording laboratory QC reports for pharmaceutical manufacturing.</p>
+<p align="left">🛠️ I'm currently developing <a href="https://github.com/ubemacapuno/qc-buddy">CAPA Tracker</a>, a full-stack web application for recording Corrective and Preventive Action reports. CAPAs consist of improvements to a manufacturing organization's processes taken to eliminate causes of non-conformities and other undesirable situations, and are common in ISO, FDA, EU, and other regulated industries.</p>
 <p align="left">🤖 Fun facts: I enjoy photography, rock climbing, and hiking on my spare time.</p>
 
 <h3 align="left">Connect with me:</h3>
