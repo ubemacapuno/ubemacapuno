@@ -14,4 +14,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ubemacapuno&show_icons=true&locale=en&layout=compact&theme=tokyonight_duo" alt="ubemacapuno" /></p>
-<p><img align="left" src="https://github.com/ubemacapuno/ubemacapuno/blob/output/github-contribution-grid-snake.svg" alt="ubemacapuno" /></p>
+<p><img align="left" src="https://raw.githubusercontent.com/ubemacapuno/ubemacapuno/a8be5c2205b0bda87fa5b12f7cb757d8daf2c20c/github-contribution-grid-snake.svg" alt="ubemacapuno" /></p>
