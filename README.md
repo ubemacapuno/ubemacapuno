@@ -14,4 +14,4 @@
 </p>
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ubemacapuno&show_icons=true&locale=en&layout=compact&theme=tokyonight_duo" alt="ubemacapuno" /></p>
-![Snake animation](https://github.com/{{ubemacapuno}}/{{ubemacapuno}}/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ubemacapuno/ubemacapuno/blob/output/github-contribution-grid-snake.svg)
