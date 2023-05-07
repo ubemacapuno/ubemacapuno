@@ -2,7 +2,7 @@
 
 <h3 align="left">I am a community-taught software developer with a passion for learning tech! <a href="https://leonnoel.com/100devs/">#100Devs</a></h3>
 
-<p align="left">🧑🏾‍ Tools I currently use include Svelte/SvelteKit, React, TypeScript, MongoDB, PostgreSQL, Express.js, Node.js, HTML/CSS, Tailwind</p>
+<p align="left">🧑🏾‍ Tools I currently use include Svelte/SvelteKit, React, TypeScript, MongoDB, PostgreSQL, Express.js, Node.js, HTML/CSS, Tailwind CSS.</p>
 <p align="left">🛠️ I'm currently developing <a href="https://github.com/ubemacapuno/ts-capa-tracker-refactor">CAPA Tracker</a>, a full-stack web application for recording Corrective and Preventive Action reports. CAPAs consist of improvements to a manufacturing organization's processes taken to eliminate causes of non-conformities and other undesirable situations, and are common in ISO, FDA, EU, and other regulated industries.</p>
 <p align="left">🤖 Fun facts: I enjoy photography, rock climbing, and hiking on my spare time.</p>
 
