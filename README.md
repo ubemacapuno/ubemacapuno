@@ -1,4 +1,4 @@
-![image](https://github.com/ubemacapuno/images-for-github-readme/blob/main/corey-damocles-header-image.png?raw=true)
+![Header](https://github.com/ubemacapuno/ubemacapuno/blob/main/github-header.png?raw=true)
 
 <h3 align="left">I am a <a href="https://leonnoel.com/100devs/">community-taught</a> software developer with a passion for learning tech.</h3>
 
