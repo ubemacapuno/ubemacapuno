@@ -14,6 +14,3 @@
 </p>
 
 <p><img align="left" src="https://raw.githubusercontent.com/ubemacapuno/ubemacapuno/a8be5c2205b0bda87fa5b12f7cb757d8daf2c20c/github-contribution-grid-snake.svg" alt="ubemacapuno" /></p>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight-duo)](https://git.io/streak-stats)
-
