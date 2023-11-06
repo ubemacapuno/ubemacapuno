@@ -13,6 +13,6 @@
 <a href="https://codepen.io/corey-damocles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="corey-damocles" height="30" width="40" /></a>
 </p>
 
-<img align="center" src="https://camo.githubusercontent.com/9a2449c2163cfb09f9d93dfae4d70062b85529ecfc6d50e0a44f4db2bc01fbb5/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d6572696373736172746f7269757326" alt="ubemacapuno" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=ubemacapuno&theme=tokyonight" style="max-width: 100%;">
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ubemacapuno&show_icons=true&locale=en&layout=compact&theme=tokyonight_duo" alt="ubemacapuno" />
 
 <img align="left" src="https://raw.githubusercontent.com/ubemacapuno/ubemacapuno/a8be5c2205b0bda87fa5b12f7cb757d8daf2c20c/github-contribution-grid-snake.svg" alt="ubemacapuno" />
