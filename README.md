@@ -6,7 +6,7 @@
 
 ## Currently Building
 
-### 🛠️ [AI-ssue](https://github.com/ubemacapuno/open-ai-playground)
+### 🛠️ [Open AI Playground](https://github.com/ubemacapuno/open-ai-playground)
 A suite of AI-powered tools built with SvelteKit and Pocketbase, including:
 - Smart Ticketing System: Generates issue tickets from text summaries
 - Engineering Drawing Analyzer: Extracts data from CAD PDFs and suggests manufacturing processes for creating the part
