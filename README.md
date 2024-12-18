@@ -7,11 +7,14 @@
 ## Currently Building
 
 ### 🛠️ [Open AI Playground](https://github.com/ubemacapuno/open-ai-playground)
+
 A suite of AI-powered tools built with SvelteKit and Pocketbase, including:
+
 - Smart Ticketing System: Generates issue tickets from text summaries
 - Engineering Drawing Analyzer: Extracts data from CAD PDFs and suggests manufacturing processes for creating the part
 
 ### ⛰️ [Crag Calendar](https://github.com/ubemacapuno/crag-calendar)
+
 A rock climbing workout log built with Next.js, PostgreSQL, and Drizzle.
 
 ## Personal Interests
@@ -27,6 +30,11 @@ A rock climbing workout log built with Next.js, PostgreSQL, and Drizzle.
 </p>
 
 ## Stats:
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ubemacapuno&show_icons=true&locale=en&layout=compact&theme=tokyonight_duo)
 
-![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/ubemacapuno/ubemacapuno/a8be5c2205b0bda87fa5b12f7cb757d8daf2c20c/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ubemacapuno/ubemacapuno/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ubemacapuno/ubemacapuno/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ubemacapuno/ubemacapuno/output/github-contribution-grid-snake.svg" />
+</picture>
